@@ -1,0 +1,5 @@
+pyautogui
+pyperclip
+openpyxl
+requests
+python-dotenv
